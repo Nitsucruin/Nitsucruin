@@ -37,18 +37,15 @@ I am currently student and graduating this school year. I have  knowledge in dif
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="100%">
+## Github Status  
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nitsucruin&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-</td></tr></table>  
+</div> 
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=nitsucruin&&style=flat-square)  
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
