@@ -1,6 +1,6 @@
 ![]()  
   
-
+<img src ="banner.png" >
 ## Hello, I am Marc Agustin M. Javier  
   
 
