@@ -42,10 +42,6 @@ I am currently student and graduating this school year. I have  knowledge in dif
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nitsucruin&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
