@@ -42,7 +42,7 @@ I am currently student and graduating this school year. I have  knowledge in dif
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nitsucruin&theme=true&hide_border=true&include_all_commits=false&count_private=true" /><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitsucruin&theme=true&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitsucruin&theme=true&hide_border=true" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsucruin&theme=true&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
 </div> 
