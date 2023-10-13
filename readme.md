@@ -1,20 +1,17 @@
 ![]()  
   
 <img src ="banner.png" >
-Hello, I am Marc Agustin M. Javier  
-  
-
+Hello, I am Marc Agustin M. Javier 
 <br>
+I am currently student and graduating this school year. I have  knowledge in different types of programming languages like Java, PHP, Python, and SQL.     
+
+
+## Skills  
 <a href="https://linkedin.com/in/marc-agustin-javier-2b3735266" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
 
-
-
-### 
-  
-I am currently student and graduating this school year. I have  knowledge in different types of programming languages like Java, PHP, Python, and SQL.   
   
 
 <br/>  
