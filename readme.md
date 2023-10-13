@@ -41,9 +41,10 @@ I am currently student and graduating this school year. I have  knowledge in dif
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nitsucruin&show_icons=true&count_private=true&hide_border=true" align="left" />
-![](https://github-readme-stats.vercel.app/api?username=Nitsucruin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nitsucruin&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsucruin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img src= "https://github-readme-stats.vercel.app/api?username=Nitsucruin&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Nitsucruin&theme=dark&hide_border=true"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsucruin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+
 </div> 
 
 <br/> <div align="center">
