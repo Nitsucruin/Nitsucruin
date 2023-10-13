@@ -45,7 +45,7 @@ I am currently student and graduating this school year. I have  knowledge in dif
 </div> 
 
 <br/>  
-<br/>
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=nitsucruin&&style=flat-square)  
 
 
