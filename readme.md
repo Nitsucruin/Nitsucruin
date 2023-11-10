@@ -16,7 +16,7 @@ I am currently student and graduating this school year. I have  knowledge in dif
 
 <br/>  
 
-## Skills  ****
+
 ## Skills  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -35,7 +35,7 @@ I am currently student and graduating this school year. I have  knowledge in dif
 </div>  
 
 <br/>  
-## Certificates
+## Certificate  ****
 <div align="left">
   <p><a href="https://drive.google.com/file/d/19EmWE7FRFCmNvD_WYm5w0mMrIQedH4f0/view?usp=sharing">Data Engineering for Everyone</a></p>
   <p><a href="https://drive.google.com/file/d/1J26NRId41XrJT6yofdppaHgqQvs_zt2y/view?usp=sharing"> Oracle AI Foundation </a></p>
