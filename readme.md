@@ -35,7 +35,12 @@ I am currently student and graduating this school year. I have  knowledge in dif
 </div>  
 
 <br/>  
-
+## Certificates
+<div align="left">
+  <p><a href="https://drive.google.com/file/d/19EmWE7FRFCmNvD_WYm5w0mMrIQedH4f0/view?usp=sharing">Data Engineering for Everyone</a></p>
+  <p><a href="https://drive.google.com/file/d/1J26NRId41XrJT6yofdppaHgqQvs_zt2y/view?usp=sharing"> Oracle AI Foundation </a></p>
+  <p><a href="https://drive.google.com/file/d/1WncGrOFOch4DHr1JTUdFhVC6prtGA_tp/view?usp=sharing"> Oracle Autonomous Database Cloud 2021 </a></p>
+</div> 
 
 ## Github Status  
 <div align="left">
