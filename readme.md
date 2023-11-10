@@ -35,7 +35,8 @@ I am currently student and graduating this school year. I have  knowledge in dif
 </div>  
 
 <br/>  
-## Certificate  ****
+
+## Certificate 
 <div align="left">
   <p><a href="https://drive.google.com/file/d/19EmWE7FRFCmNvD_WYm5w0mMrIQedH4f0/view?usp=sharing">Data Engineering for Everyone</a></p>
   <p><a href="https://drive.google.com/file/d/1J26NRId41XrJT6yofdppaHgqQvs_zt2y/view?usp=sharing"> Oracle AI Foundation </a></p>
