@@ -39,8 +39,8 @@ I am currently student and graduating this school year. I have  knowledge in dif
 ## Certificate 
 <div align="left">
   <p><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ec3e0fcee2efb2a29fe4313c27a27244f721bd08">Data Engineering for Everyone</a></p>
-  <p><a href="https://drive.google.com/file/d/1J26NRId41XrJT6yofdppaHgqQvs_zt2y/view?usp=sharing"> Oracle AI Foundation </a></p>
-  <p><a href="https://drive.google.com/file/d/1WncGrOFOch4DHr1JTUdFhVC6prtGA_tp/view?usp=sharing"> Oracle Autonomous Database Cloud 2021 </a></p>
+  <p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6C1AA06E199101D9A14A12783467BEAC609F82972CA559503A69B1580FDDA5F6"> Oracle AI Foundation </a></p>
+  <p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=01F2E26338FC485F8848128DDB78B2EFAD964689ADBCA98ABBA846935438175C"> Oracle Autonomous Database Cloud 2021 </a></p>
 </div> 
 
 ## Github Status  
